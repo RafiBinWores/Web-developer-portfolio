@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.n-color{
+    color: #4267B2;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+    padding-left: 100px;
+}
+.link-button{
+    text-decoration: none;
+    color: #fff;
+    background-color: #4267B2;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
