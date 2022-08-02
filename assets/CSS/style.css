@@ -38,6 +38,7 @@ body{
 
 .experience{
     padding-left: 50px;
+    background-image: url(../image/xp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
